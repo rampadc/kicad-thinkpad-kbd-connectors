@@ -7,8 +7,9 @@ Ongoing effort to bring ThinkPad keyboard connectors to KiCad.
 ![](docs/t430-3d-model.jpg)
 
 > Footprint
-![](docs/t430-footprint.png)
+
+![](docs/t430-footprint.PNG)
 
 > Symbol
 
-![](docs/t430-symbol.png)
+![](docs/t430-symbol.PNG)
